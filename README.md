@@ -27,4 +27,4 @@ This project proposes a robust **Predictive Maintenance (PdM) framework** for ai
 * `docs/` : Detailed project report and presentation files.
 
 ## Main Author
-* **Heejun Cho** * Connect with me on choheejun1114@gmail.com
+* **Heejun Cho** Connect with me on choheejun1114@gmail.com
